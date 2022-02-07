@@ -1,5 +1,6 @@
 """exemplo git"""
 
-print("oi")
+def divide(a, b):
+    print(a / b)
 
-print("olá denovo")
+divide(10, 2)
