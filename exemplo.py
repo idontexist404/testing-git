@@ -1,6 +1,6 @@
 """exemplo git"""
 
 def divide(a, b):
-    print(a / b)
+    print(f"{a} dividido por {b} é igual a {a/b}")
 
-divide(10, 2)
+divide(93, 3)
